@@ -1,0 +1,11 @@
+.NWdrawing 		{fill:#9900e6; fill-opacity:0.1; stroke:#9900e6; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.RXdrawing 		{fill:#ffff00; fill-opacity:0.2; stroke:#ffff00; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.BPdrawing 		{fill:#bf4026; fill-opacity:0.1; stroke:#bf4026; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.PCdrawing 		{fill:#01fe00; fill-opacity:0.3; stroke:#01fe00; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.CAdrawing 		{fill:#ffffff; fill-opacity:1.0; stroke:#000000; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.M1drawing 		{fill:#0000ff; fill-opacity:0.3; stroke:#0000ff; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.V1drawing 		{fill:#39bfff; fill-opacity:1.0; stroke:#38bfff; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.M2drawing 		{fill:#ff0000; fill-opacity:0.3; stroke:#ff0000; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.V2drawing		{fill:#ff8000; fill-opacity:1.0; stroke:#ff8000; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.M3drawing		{fill:#01cc66; fill-opacity:0.3; stroke:#01cc66; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
+.DIODEdrawing 	{fill:#ffbff2; fill-opacity:0.3; stroke:#ffbff2; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-dashoffset:0; stroke-opacity:1}
