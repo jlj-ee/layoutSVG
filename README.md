@@ -4,7 +4,7 @@ layoutSVG.il
 
 @author Jaime Jimenez
 
-March 2015
+Brown University, March 2015
 
 Version: 1.0
 

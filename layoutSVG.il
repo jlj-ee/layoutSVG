@@ -27,8 +27,9 @@ running the script will generate an SVG file from the current layout with only t
 currently visible layers.
 
 To run:
-In the Cadence console, type: 	"load <path>/LayoutSVG.il"   (replace <path> with the correct path to this file)
-								"MakeSVG()"
+In the Cadence console, type (without quotes, and replacing <path> with the correct path to this file): 	
+"load <path>/LayoutSVG.il"   
+"MakeSVG()"
 
 --- CONFIGURATION -----------------------------------------------------------------------------------------------------------
 
